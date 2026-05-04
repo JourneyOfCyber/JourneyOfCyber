@@ -6,14 +6,14 @@ Built and configured a virtualised network using VMware to install and set up a 
 ### Tools Used
 
 - VMware
-- Pfsense 
+- Pfsense installer https://www.pfsense.org/download/
 
 ## Steps
 
 1. Before starting I opened the virtual network editor to create a host-only network using VMnet1 and disabled the local DHCP service so VMware would not automatically assign IP addresses to virtual machines.
 <img width="692" height="652" alt="image" src="https://github.com/user-attachments/assets/8ab3f68d-1f16-4416-92f7-c4431d367378" />
 
-2. Once I set up pfSense using the default VMware setup process, I configured pfSense by setting Network Adapter 1 to Bridged mode and Network Adapter to the host-only network created on VMnet1.
+2. Once I set up pfSense using the default VMware setup process, I configured pfSense by setting Network Adapter 1 to Bridged mode and Network Adapter to the host-only network created on VMnet1. The host-only network is an internal network that the virtual machines will use once pfSense is installed which allows them to communicate through pfSense.
 <img width="885" height="465" alt="image" src="https://github.com/user-attachments/assets/8785a6d3-3720-4c59-a3cb-bdaa3ba5ed32" />
 <img width="882" height="467" alt="image" src="https://github.com/user-attachments/assets/d0b6642c-1396-437f-89c3-8c6b05a261eb" />
 
