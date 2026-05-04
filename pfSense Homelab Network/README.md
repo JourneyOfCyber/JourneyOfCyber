@@ -48,10 +48,12 @@ Built and configured a virtualised network using VMware to install and set up a 
 <img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/9f0616bc-83a4-4f52-85b1-603fb9d02fff" />
 
 13. Now you can set up another VM (We’ll use Windows for this example.) Change its Network Adapter 1 to VMnet1 (the host-only network), which is the same internal network configured as the second network adapter on the pfSense machine. This allows the Windows VM to connect through pfSense.
+Don’t forget: make sure the pfSense VM is powered on and running before starting any other VMs otherwise, the network connection won’t work properly.
+<img width="880" height="487" alt="image" src="https://github.com/user-attachments/assets/dd65598f-7edb-4d6a-bfa9-5240b198f757" />
 
-14. Since the IP address of the router is 192.168.1.1 you can enter it into your browser’s address bar and If everything is configured correctly the pfSense login page should appear.
+16. Since the IP address of the router is 192.168.1.1 you can enter it into your browser’s address bar and If everything is configured correctly the pfSense login page should appear.
     The default pfSense login credentials are username: admin and password: pfsense.
 
-15. Once you log in, you’ll be presented with the setup wizard. You can skip this for now and keep the default password if you want, though it’s recommended to change it later for security.
+17. Once you log in, you’ll be presented with the setup wizard. You can skip this for now and keep the default password if you want, though it’s recommended to change it later for security.
 
-16. You’ll now see the dashboard which means that pfSense is fully functioning. There are plenty of options to explore within the interface such as monitoring, configuring, and managing the network. That’s all the steps for the setup. pfSense will be used in future projects.
+18. You’ll now see the dashboard which means that pfSense is fully functioning. There are plenty of options to explore within the interface such as monitoring, configuring, and managing the network. That’s all the steps for the setup. pfSense will be used in future projects.
