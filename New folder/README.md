@@ -55,3 +55,9 @@ Built and configured a virtualised network using VMware to install and set up a 
 11. After the installation completed, a prompt appeared asking to restart the virtual machine, and Enter was pressed to reboot the system.
 
 
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/b1f9c753-8af8-4475-bf05-b68e0194cfe6" />
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/248eba12-56a9-40e9-b5bf-3dd93cccc286" />
+
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/9f0616bc-83a4-4f52-85b1-603fb9d02fff" />
+
+
