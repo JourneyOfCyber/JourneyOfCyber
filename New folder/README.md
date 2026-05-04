@@ -1,7 +1,7 @@
 # pfSense Homelab Network Simulation
 
 ## Objective
-Built and configured a virtualised network using VMware to install pfSense to simulate real-world network traffic, monitoring, and attack scenarios. The goal was to understand how network security devices operate under normal and stressed conditions, and how logging can be used to detect suspicious activity.
+Built and configured a virtualised network using VMware to install and set up a functional pfSense firewall.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
