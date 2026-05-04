@@ -3,21 +3,10 @@
 ### Objective
 Built and configured a virtualised network using VMware to install and set up a functional pfSense firewall.
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- VMware
+- Pfsense 
 
 ## Steps
 
@@ -53,11 +42,9 @@ Built and configured a virtualised network using VMware to install and set up a 
 <img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/2f2cc870-5f44-464d-ad0f-c3979a5cd338" />
 
 11. After the installation completed, a prompt appeared asking to restart the virtual machine, and Enter was pressed to reboot the system.
-
-
-<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/b1f9c753-8af8-4475-bf05-b68e0194cfe6" />
 <img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/248eba12-56a9-40e9-b5bf-3dd93cccc286" />
 
+12. Once the system rebooted, the pfSense console screen was displayed showing that the boot process had completed successfully and all services had started
 <img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/9f0616bc-83a4-4f52-85b1-603fb9d02fff" />
 
 
