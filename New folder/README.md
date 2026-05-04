@@ -28,4 +28,16 @@ Built and configured a virtualised network using VMware to install and set up a 
 <img width="885" height="465" alt="image" src="https://github.com/user-attachments/assets/8785a6d3-3720-4c59-a3cb-bdaa3ba5ed32" />
 <img width="882" height="467" alt="image" src="https://github.com/user-attachments/assets/d0b6642c-1396-437f-89c3-8c6b05a261eb" />
 
+3. The pfsense was opened and press enter on this screen
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/26a703e8-6f5f-4ca0-be71-45d206e162cc" />
+
+4. On the select WAN interface i selected em0 as the WAN
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/a1fda63b-1244-4144-b397-06ca4b8fffdb" />
+
+5. all settigns here are left as default
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/74a07f44-f4e0-48d5-bd2a-2faefe19ecb6" />
+
+6. On the LAN select interface I selected em1 was the LAN
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/8603df3d-949b-4834-89dd-0ba3b48128d6" />
+
 
