@@ -1,4 +1,4 @@
-# pfSense Homelab Network Simulation
+# pfSense Homelab Network
 
 ### Objective
 Built and configured a virtualised network using VMware to install and set up a functional pfSense firewall.
