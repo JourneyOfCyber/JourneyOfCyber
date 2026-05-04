@@ -1,9 +1,7 @@
-# PROJECTNAME
+# pfSense Homelab Network Simulation
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Built and configured a virtualised network using VMware to install pfSense to simulate real-world network traffic, monitoring, and attack scenarios. The goal was to understand how network security devices operate under normal and stressed conditions, and how logging can be used to detect suspicious activity.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
