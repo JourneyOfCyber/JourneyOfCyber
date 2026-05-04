@@ -22,3 +22,7 @@ Built and configured a virtualised network using VMware to install and set up a 
 ## Steps
 
 1. In vmware I changed the internet settings for pfsense
+<img width="885" height="465" alt="image" src="https://github.com/user-attachments/assets/8785a6d3-3720-4c59-a3cb-bdaa3ba5ed32" />
+<img width="882" height="467" alt="image" src="https://github.com/user-attachments/assets/d0b6642c-1396-437f-89c3-8c6b05a261eb" />
+
+
