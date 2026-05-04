@@ -47,4 +47,6 @@ Built and configured a virtualised network using VMware to install and set up a 
 12. Once the system rebooted, the pfSense console screen was displayed showing that the boot process had completed successfully and all services had started
 <img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/9f0616bc-83a4-4f52-85b1-603fb9d02fff" />
 
+13. Now you can set up another VM (We’ll use Windows for this example.) Change its Network Adapter 1 to VMnet1 (the host-only network), which is the same internal network configured as the second network adapter on the pfSense machine. This allows the Windows VM to connect through pfSense.
 
+14. Since the IP address of the router is 192.168.1.1 you can enter it into your browser’s address bar and If everything is configured correctly the pfSense login page should appear.
