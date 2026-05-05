@@ -53,7 +53,10 @@ Don’t forget: make sure the pfSense VM is powered on and running before starti
 
 16. Since the IP address of the router is 192.168.1.1 you can enter it into your browser’s address bar and If everything is configured correctly the pfSense login page should appear.
     The default pfSense login credentials are username: admin and password: pfsense.
+<img width="1554" height="878" alt="image" src="https://github.com/user-attachments/assets/0052d602-3eaf-4f84-b075-3bc043d0d69d" />
 
-17. Once you log in, you’ll be presented with the setup wizard. You can skip this for now and keep the default password if you want, though it’s recommended to change it later for security.
+17. Once you log in, you’ll be presented with the setup wizard. You can skip this for now by clicking on the pfsense logo on the top left and keep the default password if you want, though it’s recommended to change it later for security.
+<img width="1554" height="878" alt="Windows Server 2022-2026-05-05-14-37-13" src="https://github.com/user-attachments/assets/e8ab415e-832c-4dd6-92f8-969202b653ef" />
 
 18. You’ll now see the dashboard which means that pfSense is fully functioning. There are plenty of options to explore within the interface such as monitoring, configuring, and managing the network. That’s all the steps for the setup. pfSense will be used in future projects.
+<img width="1554" height="878" alt="image" src="https://github.com/user-attachments/assets/85a7237d-836f-4607-8d4b-3ddea07ca0bd" />
